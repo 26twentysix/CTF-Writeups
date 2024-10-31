@@ -3,7 +3,7 @@
 Скачиваем файлик, замечаем, что он состоит из двух цифр \
 ![img.png](img.png) \
 Пишем небольшой скриптик, который превратит эту цсв в QR-код 
-```
+```python
 from numpy import genfromtxt
 import matplotlib
 from matplotlib import pyplot
