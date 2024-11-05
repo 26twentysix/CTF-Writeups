@@ -1,0 +1,1000 @@
+2024-09-22 15:29:23 - DEBUG - Fermenter temperature: 68�F, Pressure: 15 psi, Status: Active.
+2024-09-22 15:34:06 - INFO - Filter process running smoothly.
+2024-09-22 15:34:53 - CRITICAL - Fermenter failure: Temperature sensor malfunction and critical pressure buildup detected.
+2024-09-22 15:35:33 - WARNING - Kettle heating element showing signs of irregularity: possible overheating.
+2024-09-22 15:38:08 - INFO - Fermenter process running within expected parameters.
+2024-09-22 15:41:35 - INFO - Fermenter process running within expected parameters.
+2024-09-22 15:45:00 - CRITICAL - Filter system bypassed due to clog, risk of unfiltered beer entering storage.
+2024-09-22 15:49:55 - ERROR - Masher motor failure: unable to complete mashing cycle.
+2024-09-22 15:51:18 - INFO - Kettle heating process initiated successfully.
+2024-09-22 15:55:29 - WARNING - Fermenter temperature slightly above threshold: 74�F.
+2024-09-22 16:00:05 - ERROR - Kettle heating element failed, system shutting down.
+2024-09-22 16:01:49 - INFO - Filter process running smoothly.
+2024-09-22 16:02:27 - WARNING - Fermenter temperature slightly above threshold: 74�F.
+2024-09-22 16:02:29 - INFO - Masher process completed successfully.
+2024-09-22 16:03:44 - ERROR - Filter clog detected, system auto-shutdown initiated.
+2024-09-22 16:05:31 - DEBUG - Filter operation cycle: 300 gallons filtered, no blockages detected.
+2024-09-22 16:06:56 - INFO - Kettle heating process initiated successfully.
+2024-09-22 16:11:15 - INFO - Chiller operating within expected cooling range.
+2024-09-22 16:16:10 - CRITICAL - Kettle pressure vent malfunction: immediate manual intervention required.
+2024-09-22 16:17:00 - CRITICAL - Filter system bypassed due to clog, risk of unfiltered beer entering storage.
+2024-09-22 16:21:52 - INFO - Masher process completed successfully.
+2024-09-22 16:24:33 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-22 16:24:48 - ERROR - Fermenter process halted due to unexpected temperature spike.
+2024-09-22 16:28:55 - WARNING - Kettle heating element showing signs of irregularity: possible overheating.
+2024-09-22 16:33:38 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-22 16:37:09 - CRITICAL - Chiller system failure: immediate risk of temperature rise in stored beer.
+2024-09-22 16:38:31 - WARNING - Kettle heating element showing signs of irregularity: possible overheating.
+2024-09-22 16:40:55 - CRITICAL - Kettle pressure vent malfunction: immediate manual intervention required.
+2024-09-22 16:45:23 - ERROR - Filter clog detected, system auto-shutdown initiated.
+2024-09-22 16:46:14 - INFO - Masher process completed successfully.
+2024-09-22 16:50:08 - DEBUG - Masher grain input: 500 lbs, Water input: 300 gallons.
+2024-09-22 16:54:59 - DEBUG - Kettle temperature increasing: 150�F to 160�F in 2 minutes.
+2024-09-22 16:59:03 - INFO - Kettle heating process initiated successfully.
+2024-09-22 17:02:53 - INFO - Chiller operating within expected cooling range.
+2024-09-22 17:07:46 - INFO - Chiller operating within expected cooling range.
+2024-09-22 17:10:36 - ERROR - Filter clog detected, system auto-shutdown initiated.
+2024-09-22 17:13:44 - INFO - Chiller operating within expected cooling range.
+2024-09-22 17:16:55 - DEBUG - Chiller coolant levels: 85%, Current temperature: 35�F.
+2024-09-22 17:18:46 - CRITICAL - Kettle pressure vent malfunction: immediate manual intervention required.
+2024-09-22 17:22:04 - ERROR - Filter clog detected, system auto-shutdown initiated.
+2024-09-22 17:25:55 - ERROR - Filter clog detected, system auto-shutdown initiated.
+2024-09-22 17:28:27 - ERROR - Fermenter process halted due to unexpected temperature spike.
+2024-09-22 17:31:29 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-22 17:32:50 - INFO - Fermenter process running within expected parameters.
+2024-09-22 17:33:43 - INFO - Filter process running smoothly.
+2024-09-22 17:34:56 - ERROR - Kettle heating element failed, system shutting down.
+2024-09-22 17:35:28 - ERROR - Masher motor failure: unable to complete mashing cycle.
+2024-09-22 17:37:24 - DEBUG - Masher grain input: 500 lbs, Water input: 300 gallons.
+2024-09-22 17:41:27 - DEBUG - Masher grain input: 500 lbs, Water input: 300 gallons.
+2024-09-22 17:44:44 - CRITICAL - Fermenter failure: Temperature sensor malfunction and critical pressure buildup detected.
+2024-09-22 17:48:18 - CRITICAL - Filter system bypassed due to clog, risk of unfiltered beer entering storage.
+2024-09-22 17:49:36 - DEBUG - Fermenter temperature: 68�F, Pressure: 15 psi, Status: Active.
+2024-09-22 17:52:52 - ERROR - Masher motor failure: unable to complete mashing cycle.
+2024-09-22 17:55:09 - INFO - Filter process running smoothly.
+2024-09-22 17:56:56 - WARNING - Fermenter temperature slightly above threshold: 74�F.
+2024-09-22 17:57:45 - INFO - Fermenter process running within expected parameters.
+2024-09-22 17:59:16 - WARNING - Fermenter temperature slightly above threshold: 74�F.
+2024-09-22 18:01:35 - INFO - Chiller operating within expected cooling range.
+2024-09-22 18:03:42 - ERROR - Fermenter process halted due to unexpected temperature spike.
+2024-09-22 18:03:44 - DEBUG - Masher grain input: 500 lbs, Water input: 300 gallons.
+2024-09-22 18:03:49 - WARNING - Masher temperature fluctuating, approaching upper threshold.
+2024-09-22 18:04:56 - CRITICAL - Kettle pressure vent malfunction: immediate manual intervention required.
+2024-09-22 18:08:46 - DEBUG - Fermenter temperature: 68�F, Pressure: 15 psi, Status: Active.
+2024-09-22 18:12:07 - DEBUG - Filter operation cycle: 300 gallons filtered, no blockages detected.
+2024-09-22 18:16:04 - CRITICAL - Filter system bypassed due to clog, risk of unfiltered beer entering storage.
+2024-09-22 18:19:54 - DEBUG - Filter operation cycle: 300 gallons filtered, no blockages detected.
+2024-09-22 18:20:26 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-22 18:24:50 - CRITICAL - Kettle pressure vent malfunction: immediate manual intervention required.
+2024-09-22 18:27:52 - INFO - Kettle heating process initiated successfully.
+2024-09-22 18:32:05 - WARNING - Masher temperature fluctuating, approaching upper threshold.
+2024-09-22 18:37:02 - INFO - Fermenter process running within expected parameters.
+2024-09-22 18:39:41 - WARNING - Fermenter temperature slightly above threshold: 74�F.
+2024-09-22 18:41:49 - DEBUG - Chiller coolant levels: 85%, Current temperature: 35�F.
+2024-09-22 18:45:24 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-22 18:49:41 - INFO - Kettle heating process initiated successfully.
+2024-09-22 18:50:59 - INFO - Fermenter process running within expected parameters.
+2024-09-22 18:51:27 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-22 18:53:46 - DEBUG - Fermenter temperature: 68�F, Pressure: 15 psi, Status: Active.
+2024-09-22 18:53:57 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-22 18:58:28 - CRITICAL - Masher overheating: risk of fire, emergency shutdown required.
+2024-09-22 18:58:54 - INFO - Filter process running smoothly.
+2024-09-22 19:02:28 - ERROR - Masher motor failure: unable to complete mashing cycle.
+2024-09-22 19:05:58 - INFO - Masher process completed successfully.
+2024-09-22 19:09:53 - DEBUG - Fermenter temperature: 68�F, Pressure: 15 psi, Status: Active.
+2024-09-22 19:11:34 - DEBUG - Chiller coolant levels: 85%, Current temperature: 35�F.
+2024-09-22 19:13:15 - INFO - Kettle heating process initiated successfully.
+2024-09-22 19:14:24 - ERROR - Fermenter process halted due to unexpected temperature spike.
+2024-09-22 19:15:22 - DEBUG - Filter operation cycle: 300 gallons filtered, no blockages detected.
+2024-09-22 19:15:27 - INFO - Chiller operating within expected cooling range.
+2024-09-22 19:19:42 - DEBUG - Kettle temperature increasing: 150�F to 160�F in 2 minutes.
+2024-09-22 19:24:11 - ERROR - Filter clog detected, system auto-shutdown initiated.
+2024-09-22 19:29:01 - CRITICAL - Kettle pressure vent malfunction: immediate manual intervention required.
+2024-09-22 19:31:35 - INFO - Filter process running smoothly.
+2024-09-22 19:35:07 - ERROR - Masher motor failure: unable to complete mashing cycle.
+2024-09-22 19:38:28 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-22 19:42:38 - WARNING - Masher temperature fluctuating, approaching upper threshold.
+2024-09-22 19:46:05 - DEBUG - Filter operation cycle: 300 gallons filtered, no blockages detected.
+2024-09-22 19:47:10 - WARNING - Fermenter temperature slightly above threshold: 74�F.
+2024-09-22 19:48:45 - WARNING - Fermenter temperature slightly above threshold: 74�F.
+2024-09-22 19:53:24 - CRITICAL - Masher overheating: risk of fire, emergency shutdown required.
+2024-09-22 19:56:43 - INFO - Filter process running smoothly.
+2024-09-22 19:56:45 - ERROR - Fermenter process halted due to unexpected temperature spike.
+2024-09-22 19:58:29 - ERROR - Filter clog detected, system auto-shutdown initiated.
+2024-09-22 20:03:12 - INFO - Filter process running smoothly.
+2024-09-22 20:05:38 - CRITICAL - Filter system bypassed due to clog, risk of unfiltered beer entering storage.
+2024-09-22 20:10:35 - DEBUG - Fermenter temperature: 68�F, Pressure: 15 psi, Status: Active.
+2024-09-22 20:14:07 - CRITICAL - Masher overheating: risk of fire, emergency shutdown required.
+2024-09-22 20:14:53 - DEBUG - Chiller coolant levels: 85%, Current temperature: 35�F.
+2024-09-22 20:16:19 - ERROR - Filter clog detected, system auto-shutdown initiated.
+2024-09-22 20:18:55 - WARNING - Masher temperature fluctuating, approaching upper threshold.
+2024-09-22 20:23:01 - ERROR - Fermenter process halted due to unexpected temperature spike.
+2024-09-22 20:25:42 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-22 20:30:27 - CRITICAL - Filter system bypassed due to clog, risk of unfiltered beer entering storage.
+2024-09-22 20:32:08 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-22 20:34:32 - DEBUG - Kettle temperature increasing: 150�F to 160�F in 2 minutes.
+2024-09-22 20:39:09 - DEBUG - Kettle temperature increasing: 150�F to 160�F in 2 minutes.
+2024-09-22 20:40:25 - CRITICAL - Filter system bypassed due to clog, risk of unfiltered beer entering storage.
+2024-09-22 20:40:27 - CRITICAL - Fermenter failure: Temperature sensor malfunction and critical pressure buildup detected.
+2024-09-22 20:40:45 - DEBUG - Masher grain input: 500 lbs, Water input: 300 gallons.
+2024-09-22 20:44:45 - WARNING - Fermenter temperature slightly above threshold: 74�F.
+2024-09-22 20:46:05 - DEBUG - Kettle temperature increasing: 150�F to 160�F in 2 minutes.
+2024-09-22 20:50:50 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-22 20:50:58 - DEBUG - Kettle temperature increasing: 150�F to 160�F in 2 minutes.
+2024-09-22 20:54:53 - ERROR - Kettle heating element failed, system shutting down.
+2024-09-22 20:58:51 - CRITICAL - Filter system bypassed due to clog, risk of unfiltered beer entering storage.
+2024-09-22 21:02:24 - DEBUG - Filter operation cycle: 300 gallons filtered, no blockages detected.
+2024-09-22 21:05:29 - CRITICAL - Kettle pressure vent malfunction: immediate manual intervention required.
+2024-09-22 21:09:28 - INFO - Chiller operating within expected cooling range.
+2024-09-22 21:13:57 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-22 21:17:55 - DEBUG - Masher grain input: 500 lbs, Water input: 300 gallons.
+2024-09-22 21:22:47 - INFO - Chiller operating within expected cooling range.
+2024-09-22 21:24:23 - INFO - Fermenter process running within expected parameters.
+2024-09-22 21:26:28 - CRITICAL - Chiller system failure: immediate risk of temperature rise in stored beer.
+2024-09-22 21:29:16 - INFO - Chiller operating within expected cooling range.
+2024-09-22 21:32:50 - CRITICAL - Kettle pressure vent malfunction: immediate manual intervention required.
+2024-09-22 21:36:58 - INFO - Fermenter process running within expected parameters.
+2024-09-22 21:40:49 - INFO - Fermenter process running within expected parameters.
+2024-09-22 21:42:16 - INFO - Kettle heating process initiated successfully.
+2024-09-22 21:46:03 - CRITICAL - Fermenter failure: Temperature sensor malfunction and critical pressure buildup detected.
+2024-09-22 21:47:49 - ERROR - Kettle heating element failed, system shutting down.
+2024-09-22 21:49:27 - DEBUG - Kettle temperature increasing: 150�F to 160�F in 2 minutes.
+2024-09-22 21:52:34 - INFO - Chiller operating within expected cooling range.
+2024-09-22 21:57:05 - ERROR - Masher motor failure: unable to complete mashing cycle.
+2024-09-22 22:00:33 - DEBUG - Fermenter temperature: 68�F, Pressure: 15 psi, Status: Active.
+2024-09-22 22:02:20 - DEBUG - Filter operation cycle: 300 gallons filtered, no blockages detected.
+2024-09-22 22:05:46 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-22 22:07:32 - ERROR - Masher motor failure: unable to complete mashing cycle.
+2024-09-22 22:09:08 - WARNING - Fermenter temperature slightly above threshold: 74�F.
+2024-09-22 22:11:42 - DEBUG - Filter operation cycle: 300 gallons filtered, no blockages detected.
+2024-09-22 22:12:54 - ERROR - Masher motor failure: unable to complete mashing cycle.
+2024-09-22 22:15:02 - DEBUG - Chiller coolant levels: 85%, Current temperature: 35�F.
+2024-09-22 22:19:49 - CRITICAL - Fermenter failure: Temperature sensor malfunction and critical pressure buildup detected.
+2024-09-22 22:20:56 - INFO - Fermenter process running within expected parameters.
+2024-09-22 22:21:06 - ERROR - Fermenter process halted due to unexpected temperature spike.
+2024-09-22 22:24:20 - WARNING - Fermenter temperature slightly above threshold: 74�F.
+2024-09-22 22:25:31 - INFO - Masher process completed successfully.
+2024-09-22 22:26:16 - INFO - Filter process running smoothly.
+2024-09-22 22:30:40 - CRITICAL - Fermenter failure: Temperature sensor malfunction and critical pressure buildup detected.
+2024-09-22 22:35:19 - INFO - Filter process running smoothly.
+2024-09-22 22:37:53 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-22 22:38:02 - WARNING - Fermenter temperature slightly above threshold: 74�F.
+2024-09-22 22:40:05 - DEBUG - Masher grain input: 500 lbs, Water input: 300 gallons.
+2024-09-22 22:40:31 - ERROR - Masher motor failure: unable to complete mashing cycle.
+2024-09-22 22:43:31 - INFO - Filter process running smoothly.
+2024-09-22 22:44:16 - CRITICAL - Filter system bypassed due to clog, risk of unfiltered beer entering storage.
+2024-09-22 22:44:32 - DEBUG - Masher grain input: 500 lbs, Water input: 300 gallons.
+2024-09-22 22:48:53 - INFO - Kettle heating process initiated successfully.
+2024-09-22 22:49:04 - CRITICAL - Kettle pressure vent malfunction: immediate manual intervention required.
+2024-09-22 22:50:43 - CRITICAL - Chiller system failure: immediate risk of temperature rise in stored beer.
+2024-09-22 22:54:44 - ERROR - Filter clog detected, system auto-shutdown initiated.
+2024-09-22 22:57:09 - DEBUG - Masher grain input: 500 lbs, Water input: 300 gallons.
+2024-09-22 23:01:21 - WARNING - Masher temperature fluctuating, approaching upper threshold.
+2024-09-22 23:04:43 - INFO - Chiller operating within expected cooling range.
+2024-09-22 23:08:05 - INFO - Kettle heating process initiated successfully.
+2024-09-22 23:10:38 - ERROR - Kettle heating element failed, system shutting down.
+2024-09-22 23:14:22 - CRITICAL - Chiller system failure: immediate risk of temperature rise in stored beer.
+2024-09-22 23:16:42 - ERROR - Masher motor failure: unable to complete mashing cycle.
+2024-09-22 23:19:21 - INFO - Chiller operating within expected cooling range.
+2024-09-22 23:19:36 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-22 23:23:50 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-22 23:27:52 - DEBUG - Masher grain input: 500 lbs, Water input: 300 gallons.
+2024-09-22 23:28:57 - CRITICAL - Chiller system failure: immediate risk of temperature rise in stored beer.
+2024-09-22 23:31:01 - INFO - Filter process running smoothly.
+2024-09-22 23:33:39 - WARNING - Fermenter temperature slightly above threshold: 74�F.
+2024-09-22 23:34:25 - WARNING - Masher temperature fluctuating, approaching upper threshold.
+2024-09-22 23:39:10 - INFO - Kettle heating process initiated successfully.
+2024-09-22 23:39:39 - ERROR - Kettle heating element failed, system shutting down.
+2024-09-22 23:41:06 - DEBUG - Filter operation cycle: 300 gallons filtered, no blockages detected.
+2024-09-22 23:41:56 - WARNING - Kettle heating element showing signs of irregularity: possible overheating.
+2024-09-22 23:42:53 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-22 23:44:19 - WARNING - Fermenter temperature slightly above threshold: 74�F.
+2024-09-22 23:46:54 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-22 23:48:47 - ERROR - Filter clog detected, system auto-shutdown initiated.
+2024-09-22 23:52:46 - DEBUG - Masher grain input: 500 lbs, Water input: 300 gallons.
+2024-09-22 23:55:15 - DEBUG - Filter operation cycle: 300 gallons filtered, no blockages detected.
+2024-09-22 23:59:00 - WARNING - Masher temperature fluctuating, approaching upper threshold.
+2024-09-23 00:02:59 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-23 00:06:13 - CRITICAL - Fermenter failure: Temperature sensor malfunction and critical pressure buildup detected.
+2024-09-23 00:09:33 - WARNING - Fermenter temperature slightly above threshold: 74�F.
+2024-09-23 00:12:13 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-23 00:14:48 - INFO - Fermenter process running within expected parameters.
+2024-09-23 00:17:06 - CRITICAL - Kettle pressure vent malfunction: immediate manual intervention required.
+2024-09-23 00:17:25 - DEBUG - Masher grain input: 500 lbs, Water input: 300 gallons.
+2024-09-23 00:20:06 - INFO - Chiller operating within expected cooling range.
+2024-09-23 00:21:12 - ERROR - Masher motor failure: unable to complete mashing cycle.
+2024-09-23 00:23:27 - CRITICAL - Fermenter failure: Temperature sensor malfunction and critical pressure buildup detected.
+2024-09-23 00:27:39 - CRITICAL - Filter system bypassed due to clog, risk of unfiltered beer entering storage.
+2024-09-23 00:28:33 - INFO - Masher process completed successfully.
+2024-09-23 00:31:15 - WARNING - Fermenter temperature slightly above threshold: 74�F.
+2024-09-23 00:33:24 - DEBUG - Kettle temperature increasing: 150�F to 160�F in 2 minutes.
+2024-09-23 00:36:43 - DEBUG - Masher grain input: 500 lbs, Water input: 300 gallons.
+2024-09-23 00:38:25 - ERROR - Masher motor failure: unable to complete mashing cycle.
+2024-09-23 00:42:58 - ERROR - Kettle heating element failed, system shutting down.
+2024-09-23 00:47:13 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-23 00:50:12 - CRITICAL - Kettle pressure vent malfunction: immediate manual intervention required.
+2024-09-23 00:50:24 - INFO - Fermenter process running within expected parameters.
+2024-09-23 00:52:29 - INFO - Kettle heating process initiated successfully.
+2024-09-23 00:56:28 - CRITICAL - Fermenter failure: Temperature sensor malfunction and critical pressure buildup detected.
+2024-09-23 01:00:15 - INFO - Chiller operating within expected cooling range.
+2024-09-23 01:03:58 - WARNING - Fermenter temperature slightly above threshold: 74�F.
+2024-09-23 01:07:43 - CRITICAL - Kettle pressure vent malfunction: immediate manual intervention required.
+2024-09-23 01:11:50 - CRITICAL - Filter system bypassed due to clog, risk of unfiltered beer entering storage.
+2024-09-23 01:16:31 - DEBUG - Masher grain input: 500 lbs, Water input: 300 gallons.
+2024-09-23 01:18:18 - ERROR - Kettle heating element failed, system shutting down.
+2024-09-23 01:20:57 - INFO - Kettle heating process initiated successfully.
+2024-09-23 01:23:47 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-23 01:24:20 - INFO - Chiller operating within expected cooling range.
+2024-09-23 01:26:20 - DEBUG - Masher grain input: 500 lbs, Water input: 300 gallons.
+2024-09-23 01:27:20 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-23 01:31:57 - INFO - Chiller operating within expected cooling range.
+2024-09-23 01:36:49 - CRITICAL - Fermenter failure: Temperature sensor malfunction and critical pressure buildup detected.
+2024-09-23 01:38:53 - CRITICAL - Fermenter failure: Temperature sensor malfunction and critical pressure buildup detected.
+2024-09-23 01:42:34 - WARNING - Masher temperature fluctuating, approaching upper threshold.
+2024-09-23 01:43:47 - ERROR - Masher motor failure: unable to complete mashing cycle.
+2024-09-23 01:46:01 - WARNING - Masher temperature fluctuating, approaching upper threshold.
+2024-09-23 01:47:45 - CRITICAL - Masher overheating: risk of fire, emergency shutdown required.
+2024-09-23 01:49:09 - DEBUG - Kettle temperature increasing: 150�F to 160�F in 2 minutes.
+2024-09-23 01:49:29 - WARNING - Fermenter temperature slightly above threshold: 74�F.
+2024-09-23 01:51:14 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-23 01:54:53 - INFO - Filter process running smoothly.
+2024-09-23 01:56:41 - INFO - Fermenter process running within expected parameters.
+2024-09-23 01:57:35 - CRITICAL - Chiller system failure: immediate risk of temperature rise in stored beer.
+2024-09-23 01:57:54 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-23 02:00:54 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-23 02:05:36 - WARNING - Kettle heating element showing signs of irregularity: possible overheating.
+2024-09-23 02:07:58 - ERROR - Masher motor failure: unable to complete mashing cycle.
+2024-09-23 02:08:21 - INFO - Fermenter process running within expected parameters.
+2024-09-23 02:09:32 - CRITICAL - Kettle pressure vent malfunction: immediate manual intervention required.
+2024-09-23 02:12:56 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-23 02:13:18 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-23 02:16:32 - WARNING - Fermenter temperature slightly above threshold: 74�F.
+2024-09-23 02:18:40 - INFO - Fermenter process running within expected parameters.
+2024-09-23 02:19:47 - INFO - Masher process completed successfully.
+2024-09-23 02:22:52 - DEBUG - Chiller coolant levels: 85%, Current temperature: 35�F.
+2024-09-23 02:24:24 - ERROR - Kettle heating element failed, system shutting down.
+2024-09-23 02:27:04 - ERROR - Filter clog detected, system auto-shutdown initiated.
+2024-09-23 02:29:34 - DEBUG - Filter operation cycle: 300 gallons filtered, no blockages detected.
+2024-09-23 02:31:56 - CRITICAL - Filter system bypassed due to clog, risk of unfiltered beer entering storage.
+2024-09-23 02:35:02 - ERROR - Kettle heating element failed, system shutting down.
+2024-09-23 02:38:48 - INFO - Fermenter process running within expected parameters.
+2024-09-23 02:42:33 - WARNING - Fermenter temperature slightly above threshold: 74�F.
+2024-09-23 02:44:03 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-23 02:47:58 - INFO - Filter process running smoothly.
+2024-09-23 02:52:39 - ERROR - Filter clog detected, system auto-shutdown initiated.
+2024-09-23 02:55:26 - CRITICAL - Chiller system failure: immediate risk of temperature rise in stored beer.
+2024-09-23 02:59:30 - CRITICAL - Fermenter failure: Temperature sensor malfunction and critical pressure buildup detected.
+2024-09-23 03:04:11 - CRITICAL - Masher overheating: risk of fire, emergency shutdown required.
+2024-09-23 03:08:06 - DEBUG - Fermenter temperature: 68�F, Pressure: 15 psi, Status: Active.
+2024-09-23 03:09:49 - CRITICAL - Chiller system failure: immediate risk of temperature rise in stored beer.
+2024-09-23 03:13:39 - INFO - Chiller operating within expected cooling range.
+2024-09-23 03:14:32 - CRITICAL - Chiller system failure: immediate risk of temperature rise in stored beer.
+2024-09-23 03:17:24 - DEBUG - Chiller coolant levels: 85%, Current temperature: 35�F.
+2024-09-23 03:21:48 - ERROR - Filter clog detected, system auto-shutdown initiated.
+2024-09-23 03:24:28 - CRITICAL - Filter system bypassed due to clog, risk of unfiltered beer entering storage.
+2024-09-23 03:24:55 - ERROR - Masher motor failure: unable to complete mashing cycle.
+2024-09-23 03:27:04 - DEBUG - Fermenter temperature: 68�F, Pressure: 15 psi, Status: Active.
+2024-09-23 03:31:15 - INFO - Filter process running smoothly.
+2024-09-23 03:31:41 - ERROR - Masher motor failure: unable to complete mashing cycle.
+2024-09-23 03:32:02 - INFO - Filter process running smoothly.
+2024-09-23 03:33:00 - CRITICAL - Hanshal Neith Har Aned Nex Cerin Insul Edrandia Narth Tid Deg Issur Sur Tain Ur Rii Bala Ancth Nex Cor En
+2024-09-23 03:38:46 - ERROR - Kettle heating element failed, system shutting down.
+2024-09-23 03:43:36 - ERROR - Fermenter process halted due to unexpected temperature spike.
+2024-09-23 03:44:54 - CRITICAL - Filter system bypassed due to clog, risk of unfiltered beer entering storage.
+2024-09-23 03:46:17 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-23 03:48:28 - ERROR - Filter clog detected, system auto-shutdown initiated.
+2024-09-23 03:50:21 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-23 03:52:50 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-23 03:56:23 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-23 03:59:10 - INFO - Chiller operating within expected cooling range.
+2024-09-23 04:02:23 - WARNING - Kettle heating element showing signs of irregularity: possible overheating.
+2024-09-23 04:04:53 - WARNING - Kettle heating element showing signs of irregularity: possible overheating.
+2024-09-23 04:05:18 - DEBUG - Kettle temperature increasing: 150�F to 160�F in 2 minutes.
+2024-09-23 04:10:07 - ERROR - Masher motor failure: unable to complete mashing cycle.
+2024-09-23 04:13:02 - WARNING - Kettle heating element showing signs of irregularity: possible overheating.
+2024-09-23 04:16:26 - ERROR - Kettle heating element failed, system shutting down.
+2024-09-23 04:17:25 - INFO - Filter process running smoothly.
+2024-09-23 04:21:29 - CRITICAL - Chiller system failure: immediate risk of temperature rise in stored beer.
+2024-09-23 04:26:21 - DEBUG - Chiller coolant levels: 85%, Current temperature: 35�F.
+2024-09-23 04:29:30 - ERROR - Masher motor failure: unable to complete mashing cycle.
+2024-09-23 04:31:49 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-23 04:33:59 - CRITICAL - Kettle pressure vent malfunction: immediate manual intervention required.
+2024-09-23 04:34:21 - CRITICAL - Chiller system failure: immediate risk of temperature rise in stored beer.
+2024-09-23 04:38:29 - CRITICAL - Fermenter failure: Temperature sensor malfunction and critical pressure buildup detected.
+2024-09-23 04:43:14 - DEBUG - Filter operation cycle: 300 gallons filtered, no blockages detected.
+2024-09-23 04:46:36 - CRITICAL - Masher overheating: risk of fire, emergency shutdown required.
+2024-09-23 04:51:08 - INFO - Kettle heating process initiated successfully.
+2024-09-23 04:51:42 - INFO - Filter process running smoothly.
+2024-09-23 04:52:34 - WARNING - Fermenter temperature slightly above threshold: 74�F.
+2024-09-23 04:53:39 - WARNING - Fermenter temperature slightly above threshold: 74�F.
+2024-09-23 04:57:17 - DEBUG - Filter operation cycle: 300 gallons filtered, no blockages detected.
+2024-09-23 04:59:44 - ERROR - Masher motor failure: unable to complete mashing cycle.
+2024-09-23 05:00:47 - INFO - Masher process completed successfully.
+2024-09-23 05:04:04 - WARNING - Kettle heating element showing signs of irregularity: possible overheating.
+2024-09-23 05:04:07 - CRITICAL - Filter system bypassed due to clog, risk of unfiltered beer entering storage.
+2024-09-23 05:08:30 - INFO - Fermenter process running within expected parameters.
+2024-09-23 05:09:35 - WARNING - Kettle heating element showing signs of irregularity: possible overheating.
+2024-09-23 05:13:46 - WARNING - Fermenter temperature slightly above threshold: 74�F.
+2024-09-23 05:16:09 - DEBUG - Filter operation cycle: 300 gallons filtered, no blockages detected.
+2024-09-23 05:17:31 - WARNING - Fermenter temperature slightly above threshold: 74�F.
+2024-09-23 05:17:48 - DEBUG - Masher grain input: 500 lbs, Water input: 300 gallons.
+2024-09-23 05:18:04 - CRITICAL - Fermenter failure: Temperature sensor malfunction and critical pressure buildup detected.
+2024-09-23 05:20:12 - CRITICAL - Chiller system failure: immediate risk of temperature rise in stored beer.
+2024-09-23 05:21:15 - ERROR - Fermenter process halted due to unexpected temperature spike.
+2024-09-23 05:25:41 - WARNING - Kettle heating element showing signs of irregularity: possible overheating.
+2024-09-23 05:30:18 - DEBUG - Filter operation cycle: 300 gallons filtered, no blockages detected.
+2024-09-23 05:34:44 - WARNING - Kettle heating element showing signs of irregularity: possible overheating.
+2024-09-23 05:37:21 - CRITICAL - Filter system bypassed due to clog, risk of unfiltered beer entering storage.
+2024-09-23 05:39:29 - ERROR - Fermenter process halted due to unexpected temperature spike.
+2024-09-23 05:41:34 - WARNING - Masher temperature fluctuating, approaching upper threshold.
+2024-09-23 05:46:25 - INFO - Chiller operating within expected cooling range.
+2024-09-23 05:50:24 - INFO - Filter process running smoothly.
+2024-09-23 05:53:49 - WARNING - Kettle heating element showing signs of irregularity: possible overheating.
+2024-09-23 05:55:30 - CRITICAL - Masher overheating: risk of fire, emergency shutdown required.
+2024-09-23 05:56:05 - INFO - Fermenter process running within expected parameters.
+2024-09-23 06:00:57 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-23 06:03:00 - WARNING - Kettle heating element showing signs of irregularity: possible overheating.
+2024-09-23 06:03:04 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-23 06:07:19 - INFO - Filter process running smoothly.
+2024-09-23 06:09:07 - DEBUG - Kettle temperature increasing: 150�F to 160�F in 2 minutes.
+2024-09-23 06:09:51 - ERROR - Kettle heating element failed, system shutting down.
+2024-09-23 06:12:44 - CRITICAL - Fermenter failure: Temperature sensor malfunction and critical pressure buildup detected.
+2024-09-23 06:16:14 - INFO - Kettle heating process initiated successfully.
+2024-09-23 06:17:36 - INFO - Kettle heating process initiated successfully.
+2024-09-23 06:21:18 - INFO - Kettle heating process initiated successfully.
+2024-09-23 06:22:17 - INFO - Masher process completed successfully.
+2024-09-23 06:23:29 - WARNING - Masher temperature fluctuating, approaching upper threshold.
+2024-09-23 06:25:36 - WARNING - Masher temperature fluctuating, approaching upper threshold.
+2024-09-23 06:26:17 - INFO - Chiller operating within expected cooling range.
+2024-09-23 06:28:39 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-23 06:28:57 - WARNING - Fermenter temperature slightly above threshold: 74�F.
+2024-09-23 06:33:43 - INFO - Chiller operating within expected cooling range.
+2024-09-23 06:36:59 - CRITICAL - Fermenter failure: Temperature sensor malfunction and critical pressure buildup detected.
+2024-09-23 06:41:10 - CRITICAL - Filter system bypassed due to clog, risk of unfiltered beer entering storage.
+2024-09-23 06:42:04 - DEBUG - Chiller coolant levels: 85%, Current temperature: 35�F.
+2024-09-23 06:44:01 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-23 06:45:02 - DEBUG - Fermenter temperature: 68�F, Pressure: 15 psi, Status: Active.
+2024-09-23 06:48:08 - ERROR - Kettle heating element failed, system shutting down.
+2024-09-23 06:51:22 - ERROR - Masher motor failure: unable to complete mashing cycle.
+2024-09-23 06:51:57 - CRITICAL - Masher overheating: risk of fire, emergency shutdown required.
+2024-09-23 06:56:08 - ERROR - Fermenter process halted due to unexpected temperature spike.
+2024-09-23 06:59:30 - CRITICAL - Masher overheating: risk of fire, emergency shutdown required.
+2024-09-23 06:59:34 - ERROR - Filter clog detected, system auto-shutdown initiated.
+2024-09-23 07:01:53 - INFO - Filter process running smoothly.
+2024-09-23 07:02:35 - DEBUG - Chiller coolant levels: 85%, Current temperature: 35�F.
+2024-09-23 07:07:15 - ERROR - Kettle heating element failed, system shutting down.
+2024-09-23 07:07:57 - ERROR - Fermenter process halted due to unexpected temperature spike.
+2024-09-23 07:09:53 - WARNING - Fermenter temperature slightly above threshold: 74�F.
+2024-09-23 07:11:30 - INFO - Filter process running smoothly.
+2024-09-23 07:12:03 - CRITICAL - Fermenter failure: Temperature sensor malfunction and critical pressure buildup detected.
+2024-09-23 07:15:08 - DEBUG - Chiller coolant levels: 85%, Current temperature: 35�F.
+2024-09-23 07:18:15 - ERROR - Filter clog detected, system auto-shutdown initiated.
+2024-09-23 07:20:35 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-23 07:23:39 - DEBUG - Fermenter temperature: 68�F, Pressure: 15 psi, Status: Active.
+2024-09-23 07:28:20 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-23 07:31:51 - ERROR - Filter clog detected, system auto-shutdown initiated.
+2024-09-23 07:32:58 - ERROR - Masher motor failure: unable to complete mashing cycle.
+2024-09-23 07:33:21 - ERROR - Fermenter process halted due to unexpected temperature spike.
+2024-09-23 07:34:09 - DEBUG - Filter operation cycle: 300 gallons filtered, no blockages detected.
+2024-09-23 07:37:08 - CRITICAL - Fermenter failure: Temperature sensor malfunction and critical pressure buildup detected.
+2024-09-23 07:38:49 - WARNING - Kettle heating element showing signs of irregularity: possible overheating.
+2024-09-23 07:43:24 - INFO - Fermenter process running within expected parameters.
+2024-09-23 07:44:16 - INFO - Fermenter process running within expected parameters.
+2024-09-23 07:46:22 - INFO - Chiller operating within expected cooling range.
+2024-09-23 07:50:41 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-23 07:55:13 - CRITICAL - Filter system bypassed due to clog, risk of unfiltered beer entering storage.
+2024-09-23 07:55:18 - WARNING - Kettle heating element showing signs of irregularity: possible overheating.
+2024-09-23 07:57:10 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-23 07:58:08 - ERROR - Filter clog detected, system auto-shutdown initiated.
+2024-09-23 08:01:42 - DEBUG - Kettle temperature increasing: 150�F to 160�F in 2 minutes.
+2024-09-23 08:06:20 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-23 08:06:37 - WARNING - Kettle heating element showing signs of irregularity: possible overheating.
+2024-09-23 08:07:10 - ERROR - Filter clog detected, system auto-shutdown initiated.
+2024-09-23 08:10:12 - ERROR - Fermenter process halted due to unexpected temperature spike.
+2024-09-23 08:13:14 - INFO - Masher process completed successfully.
+2024-09-23 08:17:38 - WARNING - Kettle heating element showing signs of irregularity: possible overheating.
+2024-09-23 08:20:58 - WARNING - Masher temperature fluctuating, approaching upper threshold.
+2024-09-23 08:22:20 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-23 08:23:14 - CRITICAL - Chiller system failure: immediate risk of temperature rise in stored beer.
+2024-09-23 08:23:22 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-23 08:24:23 - CRITICAL - Fermenter failure: Temperature sensor malfunction and critical pressure buildup detected.
+2024-09-23 08:25:07 - INFO - Masher process completed successfully.
+2024-09-23 08:27:43 - CRITICAL - Masher overheating: risk of fire, emergency shutdown required.
+2024-09-23 08:28:35 - DEBUG - Masher grain input: 500 lbs, Water input: 300 gallons.
+2024-09-23 08:31:41 - CRITICAL - Filter system bypassed due to clog, risk of unfiltered beer entering storage.
+2024-09-23 08:35:07 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-23 08:39:25 - DEBUG - Chiller coolant levels: 85%, Current temperature: 35�F.
+2024-09-23 08:42:03 - INFO - Filter process running smoothly.
+2024-09-23 08:45:30 - INFO - Masher process completed successfully.
+2024-09-23 08:50:28 - DEBUG - Masher grain input: 500 lbs, Water input: 300 gallons.
+2024-09-23 08:54:51 - INFO - Chiller operating within expected cooling range.
+2024-09-23 08:58:53 - CRITICAL - Filter system bypassed due to clog, risk of unfiltered beer entering storage.
+2024-09-23 09:02:56 - ERROR - Masher motor failure: unable to complete mashing cycle.
+2024-09-23 09:07:31 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-23 09:12:02 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-23 09:16:52 - INFO - Chiller operating within expected cooling range.
+2024-09-23 09:17:17 - CRITICAL - Kettle pressure vent malfunction: immediate manual intervention required.
+2024-09-23 09:17:49 - INFO - Kettle heating process initiated successfully.
+2024-09-23 09:20:45 - INFO - Filter process running smoothly.
+2024-09-23 09:21:04 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-23 09:24:56 - DEBUG - Fermenter temperature: 68�F, Pressure: 15 psi, Status: Active.
+2024-09-23 09:26:08 - DEBUG - Kettle temperature increasing: 150�F to 160�F in 2 minutes.
+2024-09-23 09:30:03 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-23 09:32:02 - INFO - Fermenter process running within expected parameters.
+2024-09-23 09:36:20 - CRITICAL - Kettle pressure vent malfunction: immediate manual intervention required.
+2024-09-23 09:37:35 - DEBUG - Masher grain input: 500 lbs, Water input: 300 gallons.
+2024-09-23 09:38:54 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-23 09:42:34 - CRITICAL - Filter system bypassed due to clog, risk of unfiltered beer entering storage.
+2024-09-23 09:44:24 - INFO - Masher process completed successfully.
+2024-09-23 09:45:23 - INFO - Chiller operating within expected cooling range.
+2024-09-23 09:46:56 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-23 09:50:55 - CRITICAL - Kettle pressure vent malfunction: immediate manual intervention required.
+2024-09-23 09:50:58 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-23 09:51:00 - CRITICAL - Filter system bypassed due to clog, risk of unfiltered beer entering storage.
+2024-09-23 09:54:34 - DEBUG - Kettle temperature increasing: 150�F to 160�F in 2 minutes.
+2024-09-23 09:55:39 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-23 09:59:13 - ERROR - Kettle heating element failed, system shutting down.
+2024-09-23 10:00:27 - DEBUG - Kettle temperature increasing: 150�F to 160�F in 2 minutes.
+2024-09-23 10:02:22 - CRITICAL - Chiller system failure: immediate risk of temperature rise in stored beer.
+2024-09-23 10:05:28 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-23 10:07:37 - WARNING - Masher temperature fluctuating, approaching upper threshold.
+2024-09-23 10:11:06 - CRITICAL - Filter system bypassed due to clog, risk of unfiltered beer entering storage.
+2024-09-23 10:12:37 - INFO - Kettle heating process initiated successfully.
+2024-09-23 10:13:42 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-23 10:18:14 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-23 10:23:01 - INFO - Filter process running smoothly.
+2024-09-23 10:23:15 - DEBUG - Chiller coolant levels: 85%, Current temperature: 35�F.
+2024-09-23 10:25:38 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-23 10:28:30 - WARNING - Masher temperature fluctuating, approaching upper threshold.
+2024-09-23 10:33:11 - ERROR - Filter clog detected, system auto-shutdown initiated.
+2024-09-23 10:34:34 - INFO - Masher process completed successfully.
+2024-09-23 10:35:26 - DEBUG - Fermenter temperature: 68�F, Pressure: 15 psi, Status: Active.
+2024-09-23 10:39:45 - CRITICAL - Filter system bypassed due to clog, risk of unfiltered beer entering storage.
+2024-09-23 10:43:26 - WARNING - Fermenter temperature slightly above threshold: 74�F.
+2024-09-23 10:45:44 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-23 10:48:01 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-23 10:49:42 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-23 10:50:07 - ERROR - Masher motor failure: unable to complete mashing cycle.
+2024-09-23 10:51:00 - WARNING - Masher temperature fluctuating, approaching upper threshold.
+2024-09-23 10:52:33 - CRITICAL - Fermenter failure: Temperature sensor malfunction and critical pressure buildup detected.
+2024-09-23 10:56:07 - INFO - Kettle heating process initiated successfully.
+2024-09-23 10:56:34 - DEBUG - Chiller coolant levels: 85%, Current temperature: 35�F.
+2024-09-23 11:00:38 - ERROR - Masher motor failure: unable to complete mashing cycle.
+2024-09-23 11:04:45 - CRITICAL - Kettle pressure vent malfunction: immediate manual intervention required.
+2024-09-23 11:08:22 - ERROR - Kettle heating element failed, system shutting down.
+2024-09-23 11:09:30 - DEBUG - Masher grain input: 500 lbs, Water input: 300 gallons.
+2024-09-23 11:14:07 - CRITICAL - Fermenter failure: Temperature sensor malfunction and critical pressure buildup detected.
+2024-09-23 11:16:12 - WARNING - Masher temperature fluctuating, approaching upper threshold.
+2024-09-23 11:17:59 - CRITICAL - Fermenter failure: Temperature sensor malfunction and critical pressure buildup detected.
+2024-09-23 11:22:38 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-23 11:25:54 - CRITICAL - Filter system bypassed due to clog, risk of unfiltered beer entering storage.
+2024-09-23 11:27:03 - CRITICAL - Fermenter failure: Temperature sensor malfunction and critical pressure buildup detected.
+2024-09-23 11:28:01 - ERROR - Fermenter process halted due to unexpected temperature spike.
+2024-09-23 11:29:22 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-23 11:30:02 - CRITICAL - Masher overheating: risk of fire, emergency shutdown required.
+2024-09-23 11:33:26 - CRITICAL - Fermenter failure: Temperature sensor malfunction and critical pressure buildup detected.
+2024-09-23 11:37:23 - CRITICAL - Masher overheating: risk of fire, emergency shutdown required.
+2024-09-23 11:39:20 - DEBUG - Fermenter temperature: 68�F, Pressure: 15 psi, Status: Active.
+2024-09-23 11:44:02 - INFO - Chiller operating within expected cooling range.
+2024-09-23 11:45:19 - WARNING - Kettle heating element showing signs of irregularity: possible overheating.
+2024-09-23 11:46:39 - CRITICAL - Chiller system failure: immediate risk of temperature rise in stored beer.
+2024-09-23 11:47:13 - DEBUG - Masher grain input: 500 lbs, Water input: 300 gallons.
+2024-09-23 11:49:51 - DEBUG - Chiller coolant levels: 85%, Current temperature: 35�F.
+2024-09-23 11:53:29 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-23 11:57:22 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-23 12:02:09 - INFO - Masher process completed successfully.
+2024-09-23 12:04:03 - DEBUG - Filter operation cycle: 300 gallons filtered, no blockages detected.
+2024-09-23 12:05:58 - WARNING - Kettle heating element showing signs of irregularity: possible overheating.
+2024-09-23 12:10:20 - DEBUG - Kettle temperature increasing: 150�F to 160�F in 2 minutes.
+2024-09-23 12:12:39 - CRITICAL - Chiller system failure: immediate risk of temperature rise in stored beer.
+2024-09-23 12:15:08 - INFO - Masher process completed successfully.
+2024-09-23 12:16:29 - CRITICAL - Masher overheating: risk of fire, emergency shutdown required.
+2024-09-23 12:20:57 - INFO - Kettle heating process initiated successfully.
+2024-09-23 12:21:20 - CRITICAL - Chiller system failure: immediate risk of temperature rise in stored beer.
+2024-09-23 12:23:26 - INFO - Kettle heating process initiated successfully.
+2024-09-23 12:26:06 - CRITICAL - Masher overheating: risk of fire, emergency shutdown required.
+2024-09-23 12:26:41 - INFO - Filter process running smoothly.
+2024-09-23 12:28:05 - CRITICAL - Masher overheating: risk of fire, emergency shutdown required.
+2024-09-23 12:31:34 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-23 12:31:39 - INFO - Masher process completed successfully.
+2024-09-23 12:33:30 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-23 12:34:39 - CRITICAL - Chiller system failure: immediate risk of temperature rise in stored beer.
+2024-09-23 12:36:16 - INFO - Chiller operating within expected cooling range.
+2024-09-23 12:40:11 - ERROR - Kettle heating element failed, system shutting down.
+2024-09-23 12:43:59 - DEBUG - Kettle temperature increasing: 150�F to 160�F in 2 minutes.
+2024-09-23 12:46:33 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-23 12:50:18 - INFO - Kettle heating process initiated successfully.
+2024-09-23 12:51:44 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-23 12:56:37 - WARNING - Fermenter temperature slightly above threshold: 74�F.
+2024-09-23 12:56:46 - ERROR - Filter clog detected, system auto-shutdown initiated.
+2024-09-23 12:57:51 - DEBUG - Kettle temperature increasing: 150�F to 160�F in 2 minutes.
+2024-09-23 12:58:41 - INFO - Kettle heating process initiated successfully.
+2024-09-23 12:59:38 - ERROR - Filter clog detected, system auto-shutdown initiated.
+2024-09-23 13:01:49 - CRITICAL - Filter system bypassed due to clog, risk of unfiltered beer entering storage.
+2024-09-23 13:03:31 - ERROR - Fermenter process halted due to unexpected temperature spike.
+2024-09-23 13:06:21 - CRITICAL - Kettle pressure vent malfunction: immediate manual intervention required.
+2024-09-23 13:11:12 - DEBUG - Filter operation cycle: 300 gallons filtered, no blockages detected.
+2024-09-23 13:14:08 - DEBUG - Chiller coolant levels: 85%, Current temperature: 35�F.
+2024-09-23 13:18:11 - WARNING - Fermenter temperature slightly above threshold: 74�F.
+2024-09-23 13:21:37 - CRITICAL - Chiller system failure: immediate risk of temperature rise in stored beer.
+2024-09-23 13:24:48 - DEBUG - Kettle temperature increasing: 150�F to 160�F in 2 minutes.
+2024-09-23 13:27:32 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-23 13:29:39 - ERROR - Masher motor failure: unable to complete mashing cycle.
+2024-09-23 13:31:21 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-23 13:34:06 - ERROR - Kettle heating element failed, system shutting down.
+2024-09-23 13:37:04 - CRITICAL - Filter system bypassed due to clog, risk of unfiltered beer entering storage.
+2024-09-23 13:40:47 - WARNING - Fermenter temperature slightly above threshold: 74�F.
+2024-09-23 13:42:29 - ERROR - Masher motor failure: unable to complete mashing cycle.
+2024-09-23 13:44:08 - WARNING - Masher temperature fluctuating, approaching upper threshold.
+2024-09-23 13:44:26 - CRITICAL - Fermenter failure: Temperature sensor malfunction and critical pressure buildup detected.
+2024-09-23 13:47:59 - WARNING - Masher temperature fluctuating, approaching upper threshold.
+2024-09-23 13:52:19 - ERROR - Fermenter process halted due to unexpected temperature spike.
+2024-09-23 13:52:27 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-23 13:52:40 - DEBUG - Filter operation cycle: 300 gallons filtered, no blockages detected.
+2024-09-23 13:53:03 - INFO - Chiller operating within expected cooling range.
+2024-09-23 13:56:38 - INFO - Filter process running smoothly.
+2024-09-23 13:56:55 - INFO - Masher process completed successfully.
+2024-09-23 13:59:04 - ERROR - Kettle heating element failed, system shutting down.
+2024-09-23 14:00:25 - WARNING - Fermenter temperature slightly above threshold: 74�F.
+2024-09-23 14:02:38 - WARNING - Masher temperature fluctuating, approaching upper threshold.
+2024-09-23 14:04:49 - CRITICAL - Masher overheating: risk of fire, emergency shutdown required.
+2024-09-23 14:06:05 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-23 14:07:42 - INFO - Fermenter process running within expected parameters.
+2024-09-23 14:10:29 - DEBUG - Kettle temperature increasing: 150�F to 160�F in 2 minutes.
+2024-09-23 14:14:28 - INFO - Masher process completed successfully.
+2024-09-23 14:16:20 - INFO - Masher process completed successfully.
+2024-09-23 14:17:21 - INFO - Kettle heating process initiated successfully.
+2024-09-23 14:18:15 - WARNING - Masher temperature fluctuating, approaching upper threshold.
+2024-09-23 14:23:07 - WARNING - Fermenter temperature slightly above threshold: 74�F.
+2024-09-23 14:27:25 - INFO - Kettle heating process initiated successfully.
+2024-09-23 14:32:03 - ERROR - Fermenter process halted due to unexpected temperature spike.
+2024-09-23 14:36:57 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-23 14:40:40 - WARNING - Kettle heating element showing signs of irregularity: possible overheating.
+2024-09-23 14:45:24 - DEBUG - Masher grain input: 500 lbs, Water input: 300 gallons.
+2024-09-23 14:49:58 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-23 14:52:53 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-23 14:57:06 - DEBUG - Filter operation cycle: 300 gallons filtered, no blockages detected.
+2024-09-23 14:58:07 - ERROR - Filter clog detected, system auto-shutdown initiated.
+2024-09-23 15:02:44 - INFO - Chiller operating within expected cooling range.
+2024-09-23 15:03:57 - WARNING - Kettle heating element showing signs of irregularity: possible overheating.
+2024-09-23 15:08:57 - INFO - Masher process completed successfully.
+2024-09-23 15:10:59 - CRITICAL - Filter system bypassed due to clog, risk of unfiltered beer entering storage.
+2024-09-23 15:15:50 - INFO - Fermenter process running within expected parameters.
+2024-09-23 15:17:21 - DEBUG - Fermenter temperature: 68�F, Pressure: 15 psi, Status: Active.
+2024-09-23 15:21:55 - ERROR - Masher motor failure: unable to complete mashing cycle.
+2024-09-23 15:26:17 - ERROR - Filter clog detected, system auto-shutdown initiated.
+2024-09-23 15:28:12 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-23 15:29:19 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-23 15:30:04 - DEBUG - Fermenter temperature: 68�F, Pressure: 15 psi, Status: Active.
+2024-09-23 15:31:20 - ERROR - Filter clog detected, system auto-shutdown initiated.
+2024-09-23 15:36:12 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-23 15:40:17 - WARNING - Fermenter temperature slightly above threshold: 74�F.
+2024-09-23 15:45:15 - DEBUG - Masher grain input: 500 lbs, Water input: 300 gallons.
+2024-09-23 15:46:09 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-23 15:48:23 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-23 15:52:33 - DEBUG - Filter operation cycle: 300 gallons filtered, no blockages detected.
+2024-09-23 15:56:13 - ERROR - Filter clog detected, system auto-shutdown initiated.
+2024-09-23 15:59:23 - INFO - Kettle heating process initiated successfully.
+2024-09-23 15:59:40 - INFO - Kettle heating process initiated successfully.
+2024-09-23 16:04:17 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-23 16:06:25 - DEBUG - Kettle temperature increasing: 150�F to 160�F in 2 minutes.
+2024-09-23 16:10:34 - DEBUG - Kettle temperature increasing: 150�F to 160�F in 2 minutes.
+2024-09-23 16:15:17 - CRITICAL - Kettle pressure vent malfunction: immediate manual intervention required.
+2024-09-23 16:15:40 - CRITICAL - Filter system bypassed due to clog, risk of unfiltered beer entering storage.
+2024-09-23 16:16:43 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-23 16:21:09 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-23 16:24:36 - DEBUG - Filter operation cycle: 300 gallons filtered, no blockages detected.
+2024-09-23 16:27:50 - WARNING - Kettle heating element showing signs of irregularity: possible overheating.
+2024-09-23 16:32:41 - INFO - Masher process completed successfully.
+2024-09-23 16:37:35 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-23 16:39:28 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-23 16:43:14 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-23 16:43:17 - DEBUG - Masher grain input: 500 lbs, Water input: 300 gallons.
+2024-09-23 16:43:25 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-23 16:47:49 - DEBUG - Fermenter temperature: 68�F, Pressure: 15 psi, Status: Active.
+2024-09-23 16:51:22 - INFO - Masher process completed successfully.
+2024-09-23 16:53:43 - INFO - Filter process running smoothly.
+2024-09-23 16:55:23 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-23 16:55:57 - ERROR - Fermenter process halted due to unexpected temperature spike.
+2024-09-23 17:00:20 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-23 17:01:05 - ERROR - Kettle heating element failed, system shutting down.
+2024-09-23 17:02:19 - INFO - Chiller operating within expected cooling range.
+2024-09-23 17:03:28 - DEBUG - Fermenter temperature: 68�F, Pressure: 15 psi, Status: Active.
+2024-09-23 17:03:56 - DEBUG - Kettle temperature increasing: 150�F to 160�F in 2 minutes.
+2024-09-23 17:07:38 - DEBUG - Chiller coolant levels: 85%, Current temperature: 35�F.
+2024-09-23 17:11:55 - CRITICAL - Chiller system failure: immediate risk of temperature rise in stored beer.
+2024-09-23 17:14:17 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-23 17:17:47 - DEBUG - Kettle temperature increasing: 150�F to 160�F in 2 minutes.
+2024-09-23 17:19:00 - DEBUG - Filter operation cycle: 300 gallons filtered, no blockages detected.
+2024-09-23 17:23:50 - INFO - Kettle heating process initiated successfully.
+2024-09-23 17:28:03 - DEBUG - Fermenter temperature: 68�F, Pressure: 15 psi, Status: Active.
+2024-09-23 17:32:16 - INFO - Filter process running smoothly.
+2024-09-23 17:36:34 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-23 17:40:17 - CRITICAL - Kettle pressure vent malfunction: immediate manual intervention required.
+2024-09-23 17:40:19 - CRITICAL - Kettle pressure vent malfunction: immediate manual intervention required.
+2024-09-23 17:41:38 - ERROR - Kettle heating element failed, system shutting down.
+2024-09-23 17:45:30 - DEBUG - Chiller coolant levels: 85%, Current temperature: 35�F.
+2024-09-23 17:50:15 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-23 17:50:24 - ERROR - Filter clog detected, system auto-shutdown initiated.
+2024-09-23 17:53:54 - CRITICAL - Kettle pressure vent malfunction: immediate manual intervention required.
+2024-09-23 17:58:01 - CRITICAL - Masher overheating: risk of fire, emergency shutdown required.
+2024-09-23 17:59:57 - ERROR - Masher motor failure: unable to complete mashing cycle.
+2024-09-23 18:01:45 - ERROR - Kettle heating element failed, system shutting down.
+2024-09-23 18:05:50 - DEBUG - Masher grain input: 500 lbs, Water input: 300 gallons.
+2024-09-23 18:09:26 - INFO - Masher process completed successfully.
+2024-09-23 18:12:08 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-23 18:16:39 - INFO - Masher process completed successfully.
+2024-09-23 18:19:55 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-23 18:21:42 - INFO - Chiller operating within expected cooling range.
+2024-09-23 18:23:49 - CRITICAL - Chiller system failure: immediate risk of temperature rise in stored beer.
+2024-09-23 18:28:31 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-23 18:29:35 - DEBUG - Kettle temperature increasing: 150�F to 160�F in 2 minutes.
+2024-09-23 18:29:46 - ERROR - Filter clog detected, system auto-shutdown initiated.
+2024-09-23 18:33:54 - DEBUG - Fermenter temperature: 68�F, Pressure: 15 psi, Status: Active.
+2024-09-23 18:38:34 - CRITICAL - Filter system bypassed due to clog, risk of unfiltered beer entering storage.
+2024-09-23 18:40:17 - DEBUG - Chiller coolant levels: 85%, Current temperature: 35�F.
+2024-09-23 18:44:35 - ERROR - Filter clog detected, system auto-shutdown initiated.
+2024-09-23 18:45:40 - INFO - Fermenter process running within expected parameters.
+2024-09-23 18:48:29 - WARNING - Masher temperature fluctuating, approaching upper threshold.
+2024-09-23 18:53:05 - ERROR - Filter clog detected, system auto-shutdown initiated.
+2024-09-23 18:53:34 - ERROR - Masher motor failure: unable to complete mashing cycle.
+2024-09-23 18:54:52 - DEBUG - Masher grain input: 500 lbs, Water input: 300 gallons.
+2024-09-23 18:55:34 - DEBUG - Filter operation cycle: 300 gallons filtered, no blockages detected.
+2024-09-23 18:57:32 - CRITICAL - Kettle pressure vent malfunction: immediate manual intervention required.
+2024-09-23 18:58:27 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-23 18:59:24 - CRITICAL - Fermenter failure: Temperature sensor malfunction and critical pressure buildup detected.
+2024-09-23 19:03:42 - DEBUG - Fermenter temperature: 68�F, Pressure: 15 psi, Status: Active.
+2024-09-23 19:07:18 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-23 19:09:28 - CRITICAL - Chiller system failure: immediate risk of temperature rise in stored beer.
+2024-09-23 19:09:53 - WARNING - Kettle heating element showing signs of irregularity: possible overheating.
+2024-09-23 19:11:00 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-23 19:14:32 - DEBUG - Filter operation cycle: 300 gallons filtered, no blockages detected.
+2024-09-23 19:15:29 - DEBUG - Kettle temperature increasing: 150�F to 160�F in 2 minutes.
+2024-09-23 19:17:10 - CRITICAL - Fermenter failure: Temperature sensor malfunction and critical pressure buildup detected.
+2024-09-23 19:18:04 - DEBUG - Fermenter temperature: 68�F, Pressure: 15 psi, Status: Active.
+2024-09-23 19:19:25 - WARNING - Fermenter temperature slightly above threshold: 74�F.
+2024-09-23 19:19:36 - INFO - Fermenter process running within expected parameters.
+2024-09-23 19:23:36 - INFO - Filter process running smoothly.
+2024-09-23 19:24:44 - DEBUG - Filter operation cycle: 300 gallons filtered, no blockages detected.
+2024-09-23 19:26:18 - DEBUG - Chiller coolant levels: 85%, Current temperature: 35�F.
+2024-09-23 19:29:01 - WARNING - Kettle heating element showing signs of irregularity: possible overheating.
+2024-09-23 19:33:11 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-23 19:34:11 - INFO - Kettle heating process initiated successfully.
+2024-09-23 19:38:11 - DEBUG - Masher grain input: 500 lbs, Water input: 300 gallons.
+2024-09-23 19:41:51 - WARNING - Masher temperature fluctuating, approaching upper threshold.
+2024-09-23 19:45:10 - INFO - Fermenter process running within expected parameters.
+2024-09-23 19:49:21 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-23 19:50:00 - ERROR - Kettle heating element failed, system shutting down.
+2024-09-23 19:52:41 - DEBUG - Fermenter temperature: 68�F, Pressure: 15 psi, Status: Active.
+2024-09-23 19:54:50 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-23 19:57:23 - INFO - Chiller operating within expected cooling range.
+2024-09-23 19:59:20 - DEBUG - Fermenter temperature: 68�F, Pressure: 15 psi, Status: Active.
+2024-09-23 20:00:50 - ERROR - Fermenter process halted due to unexpected temperature spike.
+2024-09-23 20:01:54 - CRITICAL - Fermenter failure: Temperature sensor malfunction and critical pressure buildup detected.
+2024-09-23 20:04:18 - CRITICAL - Masher overheating: risk of fire, emergency shutdown required.
+2024-09-23 20:08:59 - WARNING - Masher temperature fluctuating, approaching upper threshold.
+2024-09-23 20:13:26 - CRITICAL - Chiller system failure: immediate risk of temperature rise in stored beer.
+2024-09-23 20:17:11 - CRITICAL - Kettle pressure vent malfunction: immediate manual intervention required.
+2024-09-23 20:18:18 - CRITICAL - Chiller system failure: immediate risk of temperature rise in stored beer.
+2024-09-23 20:20:08 - ERROR - Filter clog detected, system auto-shutdown initiated.
+2024-09-23 20:24:37 - DEBUG - Chiller coolant levels: 85%, Current temperature: 35�F.
+2024-09-23 20:26:23 - INFO - Fermenter process running within expected parameters.
+2024-09-23 20:31:11 - WARNING - Kettle heating element showing signs of irregularity: possible overheating.
+2024-09-23 20:35:54 - WARNING - Fermenter temperature slightly above threshold: 74�F.
+2024-09-23 20:40:16 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-23 20:41:38 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-23 20:45:36 - DEBUG - Kettle temperature increasing: 150�F to 160�F in 2 minutes.
+2024-09-23 20:46:53 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-23 20:51:10 - INFO - Filter process running smoothly.
+2024-09-23 20:55:41 - WARNING - Kettle heating element showing signs of irregularity: possible overheating.
+2024-09-23 20:56:17 - INFO - Chiller operating within expected cooling range.
+2024-09-23 20:58:45 - INFO - Chiller operating within expected cooling range.
+2024-09-23 21:00:49 - DEBUG - Chiller coolant levels: 85%, Current temperature: 35�F.
+2024-09-23 21:01:35 - ERROR - Masher motor failure: unable to complete mashing cycle.
+2024-09-23 21:05:51 - CRITICAL - Fermenter failure: Temperature sensor malfunction and critical pressure buildup detected.
+2024-09-23 21:08:44 - CRITICAL - Fermenter failure: Temperature sensor malfunction and critical pressure buildup detected.
+2024-09-23 21:09:47 - ERROR - Fermenter process halted due to unexpected temperature spike.
+2024-09-23 21:13:04 - DEBUG - Filter operation cycle: 300 gallons filtered, no blockages detected.
+2024-09-23 21:14:34 - DEBUG - Fermenter temperature: 68�F, Pressure: 15 psi, Status: Active.
+2024-09-23 21:17:30 - WARNING - Fermenter temperature slightly above threshold: 74�F.
+2024-09-23 21:19:34 - CRITICAL - Filter system bypassed due to clog, risk of unfiltered beer entering storage.
+2024-09-23 21:21:19 - CRITICAL - Masher overheating: risk of fire, emergency shutdown required.
+2024-09-23 21:22:19 - INFO - Masher process completed successfully.
+2024-09-23 21:26:33 - INFO - Kettle heating process initiated successfully.
+2024-09-23 21:30:49 - INFO - Kettle heating process initiated successfully.
+2024-09-23 21:32:24 - INFO - Fermenter process running within expected parameters.
+2024-09-23 21:34:27 - DEBUG - Chiller coolant levels: 85%, Current temperature: 35�F.
+2024-09-23 21:35:19 - DEBUG - Masher grain input: 500 lbs, Water input: 300 gallons.
+2024-09-23 21:38:00 - CRITICAL - Fermenter failure: Temperature sensor malfunction and critical pressure buildup detected.
+2024-09-23 21:40:43 - WARNING - Masher temperature fluctuating, approaching upper threshold.
+2024-09-23 21:40:52 - DEBUG - Kettle temperature increasing: 150�F to 160�F in 2 minutes.
+2024-09-23 21:41:55 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-23 21:45:02 - ERROR - Filter clog detected, system auto-shutdown initiated.
+2024-09-23 21:46:02 - ERROR - Fermenter process halted due to unexpected temperature spike.
+2024-09-23 21:48:05 - INFO - Filter process running smoothly.
+2024-09-23 21:48:53 - CRITICAL - Filter system bypassed due to clog, risk of unfiltered beer entering storage.
+2024-09-23 21:52:19 - CRITICAL - Masher overheating: risk of fire, emergency shutdown required.
+2024-09-23 21:53:44 - CRITICAL - Filter system bypassed due to clog, risk of unfiltered beer entering storage.
+2024-09-23 21:58:09 - CRITICAL - Kettle pressure vent malfunction: immediate manual intervention required.
+2024-09-23 21:59:40 - DEBUG - Filter operation cycle: 300 gallons filtered, no blockages detected.
+2024-09-23 22:01:20 - WARNING - Fermenter temperature slightly above threshold: 74�F.
+2024-09-23 22:03:05 - WARNING - Fermenter temperature slightly above threshold: 74�F.
+2024-09-23 22:05:51 - INFO - Fermenter process running within expected parameters.
+2024-09-23 22:09:21 - DEBUG - Kettle temperature increasing: 150�F to 160�F in 2 minutes.
+2024-09-23 22:10:35 - INFO - Fermenter process running within expected parameters.
+2024-09-23 22:13:11 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-23 22:14:43 - CRITICAL - Masher overheating: risk of fire, emergency shutdown required.
+2024-09-23 22:16:41 - DEBUG - Chiller coolant levels: 85%, Current temperature: 35�F.
+2024-09-23 22:18:48 - DEBUG - Filter operation cycle: 300 gallons filtered, no blockages detected.
+2024-09-23 22:23:44 - INFO - Masher process completed successfully.
+2024-09-23 22:25:20 - DEBUG - Filter operation cycle: 300 gallons filtered, no blockages detected.
+2024-09-23 22:27:16 - WARNING - Masher temperature fluctuating, approaching upper threshold.
+2024-09-23 22:28:46 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-23 22:33:10 - ERROR - Masher motor failure: unable to complete mashing cycle.
+2024-09-23 22:33:18 - CRITICAL - Fermenter failure: Temperature sensor malfunction and critical pressure buildup detected.
+2024-09-23 22:33:53 - ERROR - Fermenter process halted due to unexpected temperature spike.
+2024-09-23 22:36:25 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-23 22:40:30 - ERROR - Kettle heating element failed, system shutting down.
+2024-09-23 22:45:00 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-23 22:47:17 - CRITICAL - Masher overheating: risk of fire, emergency shutdown required.
+2024-09-23 22:48:35 - DEBUG - Fermenter temperature: 68�F, Pressure: 15 psi, Status: Active.
+2024-09-23 22:52:55 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-23 22:55:55 - CRITICAL - Kettle pressure vent malfunction: immediate manual intervention required.
+2024-09-23 22:59:20 - DEBUG - Kettle temperature increasing: 150�F to 160�F in 2 minutes.
+2024-09-23 23:03:39 - DEBUG - Chiller coolant levels: 85%, Current temperature: 35�F.
+2024-09-23 23:06:48 - DEBUG - Masher grain input: 500 lbs, Water input: 300 gallons.
+2024-09-23 23:08:31 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-23 23:09:15 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-23 23:12:42 - ERROR - Masher motor failure: unable to complete mashing cycle.
+2024-09-23 23:13:44 - WARNING - Masher temperature fluctuating, approaching upper threshold.
+2024-09-23 23:14:11 - DEBUG - Filter operation cycle: 300 gallons filtered, no blockages detected.
+2024-09-23 23:14:56 - CRITICAL - Fermenter failure: Temperature sensor malfunction and critical pressure buildup detected.
+2024-09-23 23:16:33 - WARNING - Kettle heating element showing signs of irregularity: possible overheating.
+2024-09-23 23:18:53 - INFO - Filter process running smoothly.
+2024-09-23 23:19:54 - CRITICAL - Filter system bypassed due to clog, risk of unfiltered beer entering storage.
+2024-09-23 23:23:39 - ERROR - Fermenter process halted due to unexpected temperature spike.
+2024-09-23 23:24:01 - INFO - Filter process running smoothly.
+2024-09-23 23:29:01 - DEBUG - Fermenter temperature: 68�F, Pressure: 15 psi, Status: Active.
+2024-09-23 23:30:28 - WARNING - Masher temperature fluctuating, approaching upper threshold.
+2024-09-23 23:32:28 - INFO - Filter process running smoothly.
+2024-09-23 23:36:54 - WARNING - Kettle heating element showing signs of irregularity: possible overheating.
+2024-09-23 23:38:49 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-23 23:42:08 - INFO - Kettle heating process initiated successfully.
+2024-09-23 23:44:14 - DEBUG - Chiller coolant levels: 85%, Current temperature: 35�F.
+2024-09-23 23:48:27 - INFO - Chiller operating within expected cooling range.
+2024-09-23 23:53:16 - WARNING - Fermenter temperature slightly above threshold: 74�F.
+2024-09-23 23:55:41 - INFO - Kettle heating process initiated successfully.
+2024-09-23 23:57:53 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-23 23:59:51 - ERROR - Kettle heating element failed, system shutting down.
+2024-09-24 00:01:07 - DEBUG - Kettle temperature increasing: 150�F to 160�F in 2 minutes.
+2024-09-24 00:05:06 - INFO - Masher process completed successfully.
+2024-09-24 00:07:52 - CRITICAL - Kettle pressure vent malfunction: immediate manual intervention required.
+2024-09-24 00:10:18 - WARNING - Kettle heating element showing signs of irregularity: possible overheating.
+2024-09-24 00:12:36 - ERROR - Fermenter process halted due to unexpected temperature spike.
+2024-09-24 00:13:45 - CRITICAL - Kettle pressure vent malfunction: immediate manual intervention required.
+2024-09-24 00:16:44 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-24 00:18:09 - ERROR - Masher motor failure: unable to complete mashing cycle.
+2024-09-24 00:21:30 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-24 00:22:38 - ERROR - Filter clog detected, system auto-shutdown initiated.
+2024-09-24 00:25:37 - CRITICAL - Kettle pressure vent malfunction: immediate manual intervention required.
+2024-09-24 00:28:43 - DEBUG - Fermenter temperature: 68�F, Pressure: 15 psi, Status: Active.
+2024-09-24 00:29:43 - INFO - Filter process running smoothly.
+2024-09-24 00:32:31 - INFO - Masher process completed successfully.
+2024-09-24 00:36:27 - CRITICAL - Filter system bypassed due to clog, risk of unfiltered beer entering storage.
+2024-09-24 00:39:31 - INFO - Filter process running smoothly.
+2024-09-24 00:39:36 - INFO - Fermenter process running within expected parameters.
+2024-09-24 00:40:53 - CRITICAL - Kettle pressure vent malfunction: immediate manual intervention required.
+2024-09-24 00:41:53 - INFO - Kettle heating process initiated successfully.
+2024-09-24 00:43:51 - INFO - Fermenter process running within expected parameters.
+2024-09-24 00:45:22 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-24 00:47:39 - INFO - Kettle heating process initiated successfully.
+2024-09-24 00:49:55 - INFO - Kettle heating process initiated successfully.
+2024-09-24 00:51:59 - WARNING - Kettle heating element showing signs of irregularity: possible overheating.
+2024-09-24 00:55:48 - DEBUG - Filter operation cycle: 300 gallons filtered, no blockages detected.
+2024-09-24 01:00:31 - ERROR - Fermenter process halted due to unexpected temperature spike.
+2024-09-24 01:03:22 - INFO - Kettle heating process initiated successfully.
+2024-09-24 01:06:18 - INFO - Chiller operating within expected cooling range.
+2024-09-24 01:06:56 - WARNING - Kettle heating element showing signs of irregularity: possible overheating.
+2024-09-24 01:07:39 - ERROR - Masher motor failure: unable to complete mashing cycle.
+2024-09-24 01:07:47 - DEBUG - Filter operation cycle: 300 gallons filtered, no blockages detected.
+2024-09-24 01:08:22 - DEBUG - Masher grain input: 500 lbs, Water input: 300 gallons.
+2024-09-24 01:09:19 - CRITICAL - Masher overheating: risk of fire, emergency shutdown required.
+2024-09-24 01:12:40 - DEBUG - Fermenter temperature: 68�F, Pressure: 15 psi, Status: Active.
+2024-09-24 01:17:10 - CRITICAL - Filter system bypassed due to clog, risk of unfiltered beer entering storage.
+2024-09-24 01:21:58 - CRITICAL - Filter system bypassed due to clog, risk of unfiltered beer entering storage.
+2024-09-24 01:23:42 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-24 01:28:25 - INFO - Fermenter process running within expected parameters.
+2024-09-24 01:33:13 - WARNING - Fermenter temperature slightly above threshold: 74�F.
+2024-09-24 01:37:59 - CRITICAL - Masher overheating: risk of fire, emergency shutdown required.
+2024-09-24 01:42:16 - ERROR - Fermenter process halted due to unexpected temperature spike.
+2024-09-24 01:42:34 - WARNING - Kettle heating element showing signs of irregularity: possible overheating.
+2024-09-24 01:46:01 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-24 01:50:23 - WARNING - Kettle heating element showing signs of irregularity: possible overheating.
+2024-09-24 01:55:18 - DEBUG - Kettle temperature increasing: 150�F to 160�F in 2 minutes.
+2024-09-24 01:58:27 - WARNING - Masher temperature fluctuating, approaching upper threshold.
+2024-09-24 02:02:34 - DEBUG - Fermenter temperature: 68�F, Pressure: 15 psi, Status: Active.
+2024-09-24 02:03:11 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-24 02:04:01 - CRITICAL - Masher overheating: risk of fire, emergency shutdown required.
+2024-09-24 02:05:09 - INFO - Masher process completed successfully.
+2024-09-24 02:06:57 - ERROR - Fermenter process halted due to unexpected temperature spike.
+2024-09-24 02:09:01 - ERROR - Fermenter process halted due to unexpected temperature spike.
+2024-09-24 02:13:06 - ERROR - Filter clog detected, system auto-shutdown initiated.
+2024-09-24 02:17:59 - DEBUG - Filter operation cycle: 300 gallons filtered, no blockages detected.
+2024-09-24 02:21:40 - INFO - Fermenter process running within expected parameters.
+2024-09-24 02:25:15 - CRITICAL - Kettle pressure vent malfunction: immediate manual intervention required.
+2024-09-24 02:28:11 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-24 02:30:05 - WARNING - Masher temperature fluctuating, approaching upper threshold.
+2024-09-24 02:34:27 - DEBUG - Masher grain input: 500 lbs, Water input: 300 gallons.
+2024-09-24 02:38:28 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-24 02:41:05 - DEBUG - Masher grain input: 500 lbs, Water input: 300 gallons.
+2024-09-24 02:42:08 - ERROR - Fermenter process halted due to unexpected temperature spike.
+2024-09-24 02:42:17 - ERROR - Masher motor failure: unable to complete mashing cycle.
+2024-09-24 02:42:49 - ERROR - Fermenter process halted due to unexpected temperature spike.
+2024-09-24 02:43:13 - CRITICAL - Chiller system failure: immediate risk of temperature rise in stored beer.
+2024-09-24 02:44:18 - CRITICAL - Fermenter failure: Temperature sensor malfunction and critical pressure buildup detected.
+2024-09-24 02:48:28 - DEBUG - Kettle temperature increasing: 150�F to 160�F in 2 minutes.
+2024-09-24 02:51:49 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-24 02:51:59 - CRITICAL - Kettle pressure vent malfunction: immediate manual intervention required.
+2024-09-24 02:54:58 - INFO - Fermenter process running within expected parameters.
+2024-09-24 02:57:10 - INFO - Fermenter process running within expected parameters.
+2024-09-24 02:58:02 - CRITICAL - Chiller system failure: immediate risk of temperature rise in stored beer.
+2024-09-24 02:58:34 - INFO - Chiller operating within expected cooling range.
+2024-09-24 02:59:18 - DEBUG - Masher grain input: 500 lbs, Water input: 300 gallons.
+2024-09-24 02:59:49 - WARNING - Fermenter temperature slightly above threshold: 74�F.
+2024-09-24 03:01:45 - DEBUG - Chiller coolant levels: 85%, Current temperature: 35�F.
+2024-09-24 03:02:52 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-24 03:05:44 - DEBUG - Filter operation cycle: 300 gallons filtered, no blockages detected.
+2024-09-24 03:09:26 - ERROR - Masher motor failure: unable to complete mashing cycle.
+2024-09-24 03:09:43 - DEBUG - Chiller coolant levels: 85%, Current temperature: 35�F.
+2024-09-24 03:13:02 - INFO - Kettle heating process initiated successfully.
+2024-09-24 03:13:48 - DEBUG - Chiller coolant levels: 85%, Current temperature: 35�F.
+2024-09-24 03:15:56 - ERROR - Kettle heating element failed, system shutting down.
+2024-09-24 03:19:05 - DEBUG - Kettle temperature increasing: 150�F to 160�F in 2 minutes.
+2024-09-24 03:22:46 - CRITICAL - Masher overheating: risk of fire, emergency shutdown required.
+2024-09-24 03:23:53 - INFO - Filter process running smoothly.
+2024-09-24 03:28:18 - CRITICAL - Filter system bypassed due to clog, risk of unfiltered beer entering storage.
+2024-09-24 03:31:09 - INFO - Kettle heating process initiated successfully.
+2024-09-24 03:34:58 - ERROR - Filter clog detected, system auto-shutdown initiated.
+2024-09-24 03:39:21 - CRITICAL - Kettle pressure vent malfunction: immediate manual intervention required.
+2024-09-24 03:42:29 - CRITICAL - Kettle pressure vent malfunction: immediate manual intervention required.
+2024-09-24 03:46:09 - WARNING - Kettle heating element showing signs of irregularity: possible overheating.
+2024-09-24 03:49:06 - DEBUG - Filter operation cycle: 300 gallons filtered, no blockages detected.
+2024-09-24 03:49:38 - DEBUG - Masher grain input: 500 lbs, Water input: 300 gallons.
+2024-09-24 03:51:12 - CRITICAL - Kettle pressure vent malfunction: immediate manual intervention required.
+2024-09-24 03:54:18 - DEBUG - Kettle temperature increasing: 150�F to 160�F in 2 minutes.
+2024-09-24 03:57:32 - DEBUG - Masher grain input: 500 lbs, Water input: 300 gallons.
+2024-09-24 03:58:30 - DEBUG - Chiller coolant levels: 85%, Current temperature: 35�F.
+2024-09-24 04:00:20 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-24 04:01:17 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-24 04:04:42 - WARNING - Kettle heating element showing signs of irregularity: possible overheating.
+2024-09-24 04:06:01 - INFO - Fermenter process running within expected parameters.
+2024-09-24 04:09:17 - CRITICAL - Masher overheating: risk of fire, emergency shutdown required.
+2024-09-24 04:11:14 - CRITICAL - Filter system bypassed due to clog, risk of unfiltered beer entering storage.
+2024-09-24 04:16:13 - DEBUG - Fermenter temperature: 68�F, Pressure: 15 psi, Status: Active.
+2024-09-24 04:17:05 - DEBUG - Kettle temperature increasing: 150�F to 160�F in 2 minutes.
+2024-09-24 04:21:38 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-24 04:23:57 - CRITICAL - Fermenter failure: Temperature sensor malfunction and critical pressure buildup detected.
+2024-09-24 04:25:18 - DEBUG - Kettle temperature increasing: 150�F to 160�F in 2 minutes.
+2024-09-24 04:25:59 - INFO - Kettle heating process initiated successfully.
+2024-09-24 04:27:48 - INFO - Chiller operating within expected cooling range.
+2024-09-24 04:28:54 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-24 04:30:44 - DEBUG - Kettle temperature increasing: 150�F to 160�F in 2 minutes.
+2024-09-24 04:33:31 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-24 04:35:37 - INFO - Chiller operating within expected cooling range.
+2024-09-24 04:38:18 - DEBUG - Chiller coolant levels: 85%, Current temperature: 35�F.
+2024-09-24 04:42:16 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-24 04:44:41 - ERROR - Kettle heating element failed, system shutting down.
+2024-09-24 04:45:02 - ERROR - Kettle heating element failed, system shutting down.
+2024-09-24 04:49:53 - CRITICAL - Filter system bypassed due to clog, risk of unfiltered beer entering storage.
+2024-09-24 04:51:57 - CRITICAL - Filter system bypassed due to clog, risk of unfiltered beer entering storage.
+2024-09-24 04:52:52 - INFO - Filter process running smoothly.
+2024-09-24 04:57:50 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-24 04:59:16 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-24 05:01:33 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-24 05:01:36 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-24 05:05:07 - CRITICAL - Fermenter failure: Temperature sensor malfunction and critical pressure buildup detected.
+2024-09-24 05:09:39 - WARNING - Kettle heating element showing signs of irregularity: possible overheating.
+2024-09-24 05:14:05 - DEBUG - Fermenter temperature: 68�F, Pressure: 15 psi, Status: Active.
+2024-09-24 05:16:53 - CRITICAL - Kettle pressure vent malfunction: immediate manual intervention required.
+2024-09-24 05:20:18 - ERROR - Chiller coolant leak detected, system shutting down.
+2024-09-24 05:25:13 - DEBUG - Kettle temperature increasing: 150�F to 160�F in 2 minutes.
+2024-09-24 05:26:04 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-24 05:26:44 - INFO - Fermenter process running within expected parameters.
+2024-09-24 05:29:15 - DEBUG - Chiller coolant levels: 85%, Current temperature: 35�F.
+2024-09-24 05:33:25 - WARNING - Masher temperature fluctuating, approaching upper threshold.
+2024-09-24 05:35:42 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-24 05:37:44 - WARNING - Masher temperature fluctuating, approaching upper threshold.
+2024-09-24 05:42:25 - ERROR - Kettle heating element failed, system shutting down.
+2024-09-24 05:44:47 - CRITICAL - Fermenter failure: Temperature sensor malfunction and critical pressure buildup detected.
+2024-09-24 05:46:13 - INFO - Kettle heating process initiated successfully.
+2024-09-24 05:47:21 - ERROR - Fermenter process halted due to unexpected temperature spike.
+2024-09-24 05:48:49 - CRITICAL - Fermenter failure: Temperature sensor malfunction and critical pressure buildup detected.
+2024-09-24 05:49:32 - WARNING - Masher temperature fluctuating, approaching upper threshold.
+2024-09-24 05:50:43 - CRITICAL - Masher overheating: risk of fire, emergency shutdown required.
+2024-09-24 05:55:35 - DEBUG - Fermenter temperature: 68�F, Pressure: 15 psi, Status: Active.
+2024-09-24 05:59:45 - CRITICAL - Filter system bypassed due to clog, risk of unfiltered beer entering storage.
+2024-09-24 06:02:58 - CRITICAL - Fermenter failure: Temperature sensor malfunction and critical pressure buildup detected.
+2024-09-24 06:05:53 - WARNING - Kettle heating element showing signs of irregularity: possible overheating.
+2024-09-24 06:08:22 - ERROR - Fermenter process halted due to unexpected temperature spike.
+2024-09-24 06:08:36 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-24 06:11:07 - CRITICAL - Fermenter failure: Temperature sensor malfunction and critical pressure buildup detected.
+2024-09-24 06:13:03 - WARNING - Kettle heating element showing signs of irregularity: possible overheating.
+2024-09-24 06:17:17 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-24 06:17:36 - INFO - Masher process completed successfully.
+2024-09-24 06:18:03 - ERROR - Kettle heating element failed, system shutting down.
+2024-09-24 06:20:46 - WARNING - Kettle heating element showing signs of irregularity: possible overheating.
+2024-09-24 06:22:10 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-24 06:26:40 - DEBUG - Masher grain input: 500 lbs, Water input: 300 gallons.
+2024-09-24 06:27:18 - DEBUG - Kettle temperature increasing: 150�F to 160�F in 2 minutes.
+2024-09-24 06:30:33 - ERROR - Fermenter process halted due to unexpected temperature spike.
+2024-09-24 06:30:59 - DEBUG - Kettle temperature increasing: 150�F to 160�F in 2 minutes.
+2024-09-24 06:33:35 - DEBUG - Fermenter temperature: 68�F, Pressure: 15 psi, Status: Active.
+2024-09-24 06:36:51 - ERROR - Fermenter process halted due to unexpected temperature spike.
+2024-09-24 06:38:01 - INFO - Chiller operating within expected cooling range.
+2024-09-24 06:41:22 - WARNING - Fermenter temperature slightly above threshold: 74�F.
+2024-09-24 06:42:54 - INFO - Kettle heating process initiated successfully.
+2024-09-24 06:45:47 - WARNING - Fermenter temperature slightly above threshold: 74�F.
+2024-09-24 06:45:49 - WARNING - Masher temperature fluctuating, approaching upper threshold.
+2024-09-24 06:48:16 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-24 06:48:40 - WARNING - Fermenter temperature slightly above threshold: 74�F.
+2024-09-24 06:53:01 - INFO - Chiller operating within expected cooling range.
+2024-09-24 06:55:21 - CRITICAL - Masher overheating: risk of fire, emergency shutdown required.
+2024-09-24 06:56:09 - ERROR - Masher motor failure: unable to complete mashing cycle.
+2024-09-24 06:56:10 - WARNING - Fermenter temperature slightly above threshold: 74�F.
+2024-09-24 06:59:39 - DEBUG - Fermenter temperature: 68�F, Pressure: 15 psi, Status: Active.
+2024-09-24 07:00:26 - ERROR - Masher motor failure: unable to complete mashing cycle.
+2024-09-24 07:04:51 - CRITICAL - Filter system bypassed due to clog, risk of unfiltered beer entering storage.
+2024-09-24 07:09:41 - DEBUG - Filter operation cycle: 300 gallons filtered, no blockages detected.
+2024-09-24 07:12:01 - INFO - Chiller operating within expected cooling range.
+2024-09-24 07:12:18 - WARNING - Chiller performance degrading: unable to maintain target temperature of 34�F.
+2024-09-24 07:13:15 - DEBUG - Kettle temperature increasing: 150�F to 160�F in 2 minutes.
+2024-09-24 07:13:17 - ERROR - Kettle heating element failed, system shutting down.
+2024-09-24 07:15:33 - DEBUG - Chiller coolant levels: 85%, Current temperature: 35�F.
+2024-09-24 07:16:26 - CRITICAL - Chiller system failure: immediate risk of temperature rise in stored beer.
+2024-09-24 07:19:22 - CRITICAL - Masher overheating: risk of fire, emergency shutdown required.
+2024-09-24 07:21:19 - CRITICAL - Chiller system failure: immediate risk of temperature rise in stored beer.
+2024-09-24 07:25:06 - CRITICAL - Filter system bypassed due to clog, risk of unfiltered beer entering storage.
+2024-09-24 07:27:42 - CRITICAL - Masher overheating: risk of fire, emergency shutdown required.
+2024-09-24 07:31:06 - ERROR - Masher motor failure: unable to complete mashing cycle.
+2024-09-24 07:33:14 - INFO - Kettle heating process initiated successfully.
+2024-09-24 07:37:01 - ERROR - Fermenter process halted due to unexpected temperature spike.
+2024-09-24 07:38:17 - DEBUG - Masher grain input: 500 lbs, Water input: 300 gallons.
+2024-09-24 07:39:40 - DEBUG - Chiller coolant levels: 85%, Current temperature: 35�F.
+2024-09-24 07:42:54 - WARNING - Kettle heating element showing signs of irregularity: possible overheating.
+2024-09-24 07:46:07 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-24 07:47:58 - INFO - Filter process running smoothly.
+2024-09-24 07:52:42 - ERROR - Kettle heating element failed, system shutting down.
+2024-09-24 07:54:12 - ERROR - Kettle heating element failed, system shutting down.
+2024-09-24 07:58:15 - INFO - Filter process running smoothly.
+2024-09-24 08:03:06 - ERROR - Kettle heating element failed, system shutting down.
+2024-09-24 08:03:17 - WARNING - Fermenter temperature slightly above threshold: 74�F.
+2024-09-24 08:05:30 - CRITICAL - Chiller system failure: immediate risk of temperature rise in stored beer.
+2024-09-24 08:06:20 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-24 08:07:11 - INFO - Kettle heating process initiated successfully.
+2024-09-24 08:10:41 - INFO - Chiller operating within expected cooling range.
+2024-09-24 08:11:53 - DEBUG - Chiller coolant levels: 85%, Current temperature: 35�F.
+2024-09-24 08:14:24 - INFO - Kettle heating process initiated successfully.
+2024-09-24 08:15:09 - DEBUG - Fermenter temperature: 68�F, Pressure: 15 psi, Status: Active.
+2024-09-24 08:17:05 - ERROR - Kettle heating element failed, system shutting down.
+2024-09-24 08:20:22 - CRITICAL - Filter system bypassed due to clog, risk of unfiltered beer entering storage.
+2024-09-24 08:20:48 - INFO - Kettle heating process initiated successfully.
+2024-09-24 08:23:45 - ERROR - Masher motor failure: unable to complete mashing cycle.
+2024-09-24 08:24:06 - DEBUG - Filter operation cycle: 300 gallons filtered, no blockages detected.
+2024-09-24 08:25:45 - WARNING - Kettle heating element showing signs of irregularity: possible overheating.
+2024-09-24 08:28:39 - DEBUG - Fermenter temperature: 68�F, Pressure: 15 psi, Status: Active.
+2024-09-24 08:30:46 - INFO - Fermenter process running within expected parameters.
+2024-09-24 08:34:55 - CRITICAL - Chiller system failure: immediate risk of temperature rise in stored beer.
+2024-09-24 08:35:11 - WARNING - Masher temperature fluctuating, approaching upper threshold.
+2024-09-24 08:37:43 - WARNING - Kettle heating element showing signs of irregularity: possible overheating.
+2024-09-24 08:39:59 - WARNING - Masher temperature fluctuating, approaching upper threshold.
+2024-09-24 08:41:02 - CRITICAL - Fermenter failure: Temperature sensor malfunction and critical pressure buildup detected.
+2024-09-24 08:45:32 - ERROR - Masher motor failure: unable to complete mashing cycle.
+2024-09-24 08:49:40 - INFO - Kettle heating process initiated successfully.
+2024-09-24 08:54:19 - ERROR - Masher motor failure: unable to complete mashing cycle.
+2024-09-24 08:55:32 - CRITICAL - Fermenter failure: Temperature sensor malfunction and critical pressure buildup detected.
+2024-09-24 08:57:12 - DEBUG - Filter operation cycle: 300 gallons filtered, no blockages detected.
+2024-09-24 09:01:04 - ERROR - Fermenter process halted due to unexpected temperature spike.
+2024-09-24 09:02:48 - WARNING - Filter efficiency dropped: flow rate below optimal level.
+2024-09-24 09:06:28 - INFO - Kettle heating process initiated successfully.
+2024-09-24 09:08:46 - DEBUG - Fermenter temperature: 68�F, Pressure: 15 psi, Status: Active.
+2024-09-24 09:13:21 - INFO - Fermenter process running within expected parameters.
